@@ -61,18 +61,13 @@ public class MateenAdebisi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mateen Adegbola&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateen Adegbola&theme=tokyonight" width="48%"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Omolaja2&show_icons=true&theme=tokyonight" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omolaja2&theme=tokyonight" width="48%"/> </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateen Adegbola&theme=react-dark"/>
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omolaja2&theme=react-dark"/> </p>
 
 ---
 
