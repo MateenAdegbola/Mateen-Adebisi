@@ -1,7 +1,7 @@
 
 md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Adebisi%20AbdulMateen%20B.&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Adebisi%20AbdulMateen%20A.&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
@@ -62,8 +62,8 @@ public class MateenAdebisi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omolaja2&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omolaja2&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateen Adegbola&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateen Adegbola&theme=tokyonight" width="48%"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ public class MateenAdebisi
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omolaja2&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateen Adegbola&theme=react-dark"/>
 </p>
 
 ---
